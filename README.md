@@ -7,7 +7,7 @@ Everything you need to save time launching your projects. A modern starter kit f
 
 ## Tech Stack
 
-- **Framework:** Next.js v16.0.4 with React 19
+- **Framework:** Next.js v16.0.7 (Security CVE Patched) with React 19
 - **UI Library:** Shadcn UI (Style: Zinc)
 - **Styling:** Tailwind CSS v4 with PostCSS
 - **Language:** TypeScript 5.9
